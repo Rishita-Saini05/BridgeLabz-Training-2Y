@@ -16,7 +16,5 @@ public class Factors {
         } else {
             System.out.println("Please enter a positive number.");
         }
-
-        scanner.close();
     }
 }
